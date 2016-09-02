@@ -4,4 +4,4 @@ function getURLSlugs(words) {
 		.toLowerCase()
 }  
 
-// hunting bugs phase
+// hunting bugs phase with big guns
