@@ -11,7 +11,7 @@
 ```bash
 $ npm install express-session
 ```
-## YO
+## Hey Yo
 
 ## API
 
