@@ -13,6 +13,11 @@ $ npm install express-session
 ```
 ## Hey Yo
 
+```
+getURLSlug('My Fav Songs')
+//=> 'my-fav-songs'
+```
+
 ## API
 
 ```js
