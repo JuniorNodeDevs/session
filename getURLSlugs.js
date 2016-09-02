@@ -4,4 +4,4 @@ function getURLSlugs(words) {
 		.toLowerCase()
 }  
 
-// hunting bugs
+// hunting bugs with big guns
